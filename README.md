@@ -1,3 +1,2 @@
 # Python-Cabling-tool
-Aplikacija koja se koristi za izračun optimalnog načina povezivanja više različitih mrežnih uređaja.
-Aplikacija vodi korisnika kroz niz dijaloga gdje se određuje koje mrežne uređaje korisnik posjeduje. Na izlazu se očekuje potrebna kablaža ( broj i vrsta pojedinog kabela ).   
+Application used to calculate the optimal way to connect multiple different network devices. The application guides the user through a series of dialogs where it is determined which network devices the user owns. The required cabling is expected at the output (number and type of individual cable).  
